@@ -387,3 +387,10 @@ build-iPhoneSimulator/
 *.box
 
 # End of https://www.gitignore.io/api/node,ruby,sass,rails,macos,vagrant,archive,database,coffeescript,jetbrains+all
+
+/public/packs
+/public/packs-test
+/node_modules
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
